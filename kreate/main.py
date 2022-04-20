@@ -5,14 +5,15 @@ import click
 import tabulate
 
 #Import Kreate_Create Modules
-
+import os
+import sys
 
 #Functions
 def lang_table():
     table_data = [
         ['Python', 'Supported'],
-        ['Javascript', 'Supported'],
-        ['NodeJS', 'Supported'],
+        ['Javascript', 'Unsuported',],
+        ['NodeJS', 'Under Dev'],
     ]
     
     print(tabulate.tabulate(table_data, headers=["Lang", "Support"]))
