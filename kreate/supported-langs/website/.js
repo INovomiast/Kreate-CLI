@@ -1,0 +1,1 @@
+// Javascript is Supported in Kreate-CLI

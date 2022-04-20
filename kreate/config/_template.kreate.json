@@ -1,0 +1,18 @@
+{
+    "Project-Info": {
+        "Project-Name": "",
+        "Project-Version": "",
+        "Project-Language": "",
+        "Project-Author": {
+            "Name": "<>",
+            "Email": "<>",
+            "GitHub": "<>"
+        }
+    },
+    "Project-Packages": {
+        "PackageName": "PackageVersion"
+    },
+    "Project-Packages-DEV": {
+        "PackageName": "PackageVersion"
+    }
+}
